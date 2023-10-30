@@ -4,3 +4,5 @@ def apple(a,b):
     
 def grape(a,b):
     
+
+print("green")
